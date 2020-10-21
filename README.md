@@ -2,4 +2,4 @@ This project is for the purposes of DATA0200 - Data Science Fluency, an undergra
 
 [Course Syllabus](https://coursetools.brown.edu/syllabus/DATA:0200:2020-Fall:S01)
 
-[Introduction to Data Science](https://rafalab.github.io/dsbook/) - [Data Analysis and Prediction Algorithms with R](https://github.com/rafalab/dsbook) by Rafael A. Irizarry
+[Introduction to Data Science](https://rafalab.github.io/dsbook/) by Rafael A. Irizarry
