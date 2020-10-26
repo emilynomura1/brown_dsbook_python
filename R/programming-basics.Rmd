@@ -10,12 +10,13 @@ Conditional expressions are one of the basic features of programming. They are u
 Here is a very simple example showing the general structure of an if-else statement. The basic idea is to print the reciprocal of `a` unless `a` is 0:
 
 ```{r}
-a = 0
+a <- 0
 
-if (a!=0):
-  print(1/a)
-else:
-  print("No reciprocal for 0.")
+if(a!=0){
+	print(1/a)
+} else{
+	print(“No reciprocal for 0. Test!”)
+}
 ```
 
 
